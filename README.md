@@ -1,4 +1,4 @@
-## Olá! Eu sou Thomas o Maffezzolli
+## Olá! Eu sou Thomas Maffezzolli
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaffezzoIIi&theme=github_dark" />
