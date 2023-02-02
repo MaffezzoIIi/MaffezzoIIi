@@ -1,8 +1,7 @@
-## Olá! Eu sou Thomas Maffezzolli
+# Olá! Eu sou Thomas Maffezzolli
 
-# I'm a full stack and devops developer in Brazil at WEG SA., I work in the Sales and E-Commerce sector
-
-# Sou desenvolvedor full stack e devops no Brasil na empresa WEG SA., atuo no setor de Vendas e E-Commerce
+## I'm a full stack and devops developer in Brazil at WEG SA., I work in the Sales and E-Commerce sector
+## Sou desenvolvedor full stack e devops no Brasil na empresa WEG SA., atuo no setor de Vendas e E-Commerce
 
 ### Conhecimento de linguagens!
 <div>
