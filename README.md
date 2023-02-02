@@ -1,10 +1,5 @@
 ## Olá! Eu sou Thomas Maffezzolli
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaffezzoIIi&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaffezzoIIi&layout=compact&card_width=300&theme=github_dark" />
-</div>
-
 ##
 ### Conhecimento de linguagens!
 <div>
